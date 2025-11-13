@@ -2,6 +2,14 @@
 
 A comprehensive WhatsApp Business CRM system with bulk messaging, campaign management, and real-time chat capabilities.
 
+## 🚀 One-Click Deploy
+
+### Deploy Backend to Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/whatsapp-crm?referralCode=bonus)
+
+### Deploy Frontend to Vercel
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/harshkuhikar/WhatsApp-CRM)
+
 ## Features
 
 - 🔐 **Authentication** - Secure login with JWT tokens and QR code scanning
