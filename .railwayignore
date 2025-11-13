@@ -1,0 +1,19 @@
+# Ignore frontend files for backend deployment
+node_modules/
+src/
+public/
+index.html
+package.json
+package-lock.json
+vite.config.js
+tailwind.config.js
+postcss.config.cjs
+.vercel/
+dist/
+
+# Ignore development files
+.git/
+.env.local
+*.log
+__pycache__/
+*.pyc
