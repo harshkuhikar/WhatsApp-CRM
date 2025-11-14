@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+
+# Frontend
+frontend/
+node_modules/
+.vite/
+dist/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Documentation
+*.md
+!README.md
+
+# Deployment configs
+.vercel/
+railway.toml
+Procfile
+runtime.txt
+.railwayignore
+
+# Logs
+*.log
